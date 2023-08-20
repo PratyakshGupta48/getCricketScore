@@ -1,7 +1,5 @@
 # Free Cricket API 🏏  
 
-[![Github Workflow](https://github.com/mskian/cricket-api-nodejs/workflows/server-test/badge.svg)](https://github.com/mskian/cricket-api-nodejs/actions)  
-
 Node.js Version - Get Live Cricket Score data from `SportsKeeda`  
 
 This is an unofficial API and not Linked or Partnered with Any Brands/Company.  
